@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Harshit Shukla";
+            document.title = "Portfolio | Rittik Sharma";
             $("#favicon").attr("href", "assets/images/hero-modified.png");
         }
         else {
